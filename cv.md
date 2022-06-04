@@ -1,5 +1,5 @@
 # **Rudkov Vladislav**
-![photo](https://disk.yandex.by/i/11Doc7S1ij0I1Q)
+![photo](pic.jpg)
 ## Junior Frontend Developer
 ---
  **Contacts:**
@@ -27,14 +27,3 @@
 * Photographing
 * 3d modeling
     
-**Languages**
-
-1. *Russian - Native*
-2. *English - A2+/B1*
-
-**Soft scills**
-
-* Cooperation
-* Accurate
-* Attentive
-* Eager to learn
